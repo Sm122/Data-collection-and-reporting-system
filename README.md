@@ -1,2 +1,2 @@
 # Data-collection-and-reporting-system
-java application using swing and mySQL
+Java Application using swing and MySQL
